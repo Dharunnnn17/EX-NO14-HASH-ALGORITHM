@@ -67,7 +67,7 @@ for (int i = 0; message[i] != '\0'; i++)
 
 ## Output:
 
-
+<img width="630" height="251" alt="image" src="https://github.com/user-attachments/assets/5aff107b-b6ba-41e4-8e72-c4e304c96cc5" />
 
 ## Result:
 The program is executed successfully.
